@@ -106,13 +106,13 @@ def worker(scan):
         APD_ply_path = os.path.join(scan_dir, 'APD', 'APD.ply')
         if not os.path.exists(APD_ply_path):
             print(call_APD_cmd)
-            if not args.review:
+            if not args.dry_run:
                 os.system(call_APD_cmd)
         else:
             print('APD result exists for {}'.format(scan_dir))
     else:
         print(call_APD_cmd)
-        if not args.review:
+        if not args.dry_run:
             os.system(call_APD_cmd)
     if  args.backup_code:
         # get current path

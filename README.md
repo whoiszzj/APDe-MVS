@@ -1,6 +1,6 @@
 # APDe-MVS
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-APDeMVS-red.svg)](https://www.sciencedirect.com/science/article/pii/S0031320325012567)
+[![Paper](https://img.shields.io/badge/Paper-APDeMVS-red.svg)](https://authors.elsevier.com/c/1m0Ib77nKsBnN)
 
 ## Introduction
 
